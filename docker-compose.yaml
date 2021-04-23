@@ -3,5 +3,5 @@ services:
   python:
     build: .
     volumes:
-      - ./workspace:/var/workspace
+      - ./python-template:/root/python-template
     tty: true

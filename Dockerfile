@@ -5,7 +5,7 @@ COPY requirements.txt /tmp/requirements.txt
 RUN pip install -r /tmp/requirements.txt
 
 # 作業ディレクトリ
-WORKDIR /var/workspace
+WORKDIR /root/python-template
 
 # 日本語設定
 ENV PYTHONIOENCODING utf-8
