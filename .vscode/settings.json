@@ -1,0 +1,14 @@
+{
+  "python.pythonPath": "/usr/local/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.lintOnSave": true,
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#07697a",
+  },
+}

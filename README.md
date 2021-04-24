@@ -6,12 +6,5 @@ docker上でのpython実行環境
 
 ### コンテナ起動
 ```
-docker-compose up --build up
-```
-
-### pythonサブモジュールのインポート
-```
-cd python-template
-git submodule init
-git submodule update
+docker-compose up --build -d
 ```
