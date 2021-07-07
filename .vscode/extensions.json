@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "irongeek.vscode-env",
+        "editorconfig.editorconfig",
+        "ms-python.python"
+    ]
+}
